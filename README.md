@@ -10,7 +10,6 @@
         <a href="https://1timemail.org/" style="color:#A020F0; font-weight:bold; text-decoration:none;">🌐 Open Project</a>
       </p>
     </td>
-
     <td style="border: 1px solid #8A2BE2; border-radius: 15px; padding: 20px; background: linear-gradient(145deg, #0f0f16, #1a1a2e); color: #fff; text-align: center; box-shadow: 0 0 10px rgba(138, 43, 226, 0.2);" width="50%">
       <h3>💸 <b>UPI Link Generator</b></h3>
       <p>Create <b>custom UPI payment links</b> in seconds — easy sharing, instant transactions.</p>
@@ -30,7 +29,6 @@
         <a href="https://patter-nix.vercel.app/" style="color:#A020F0; font-weight:bold; text-decoration:none;">🎨 Explore Patter-Nix</a>
       </p>
     </td>
-
     <td style="border: 1px solid #8A2BE2; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0f0f16, #191933); color: #fff; text-align: center; box-shadow: 0 0 10px rgba(138, 43, 226, 0.25);" width="50%">
       <h3>🚀 <b>My Portfolio</b></h3>
       <p>Showcasing my <b>projects, skills, and design vision</b> — where code meets creativity.</p>
