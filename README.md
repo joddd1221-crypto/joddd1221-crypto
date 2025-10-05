@@ -10,9 +10,9 @@
 
 <div align="center">
 
-<table width="100%" cellpadding="20" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="10">
 <tr>
-<td align="center" valign="top" width="50%" style="padding: 20px;">
+<td align="center" valign="top" width="50%" style="height: 280px; padding: 20px; border: 1px solid #A020F0; border-radius: 10px; background: linear-gradient(135deg, #0e0e12, #1a1a2e);">
 
 ### 📧 **1TimeMail**
 <p align="center">
@@ -26,7 +26,7 @@
 
 Perfect for quick sign-ups and avoiding spam in your inbox.
 
-<br>
+<br><br>
 
 <p align="center">
 <a href="https://1timemail.org/">
@@ -35,7 +35,7 @@ Perfect for quick sign-ups and avoiding spam in your inbox.
 </p>
 
 </td>
-<td align="center" valign="top" width="50%" style="padding: 20px;">
+<td align="center" valign="top" width="50%" style="height: 280px; padding: 20px; border: 1px solid #A020F0; border-radius: 10px; background: linear-gradient(135deg, #0e0e12, #1a1a2e);">
 
 ### 💸 **UpiLink Generator**
 <p align="center">
@@ -49,7 +49,7 @@ Perfect for quick sign-ups and avoiding spam in your inbox.
 
 Ideal for freelancers, small businesses, and instant payments.
 
-<br>
+<br><br>
 
 <p align="center">
 <a href="http://upilinkgenerator.vercel.app/">
@@ -61,9 +61,9 @@ Ideal for freelancers, small businesses, and instant payments.
 </tr>
 </table>
 
-<table width="100%" cellpadding="20" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="10">
 <tr>
-<td align="center" valign="top" width="50%" style="padding: 20px;">
+<td align="center" valign="top" width="50%" style="height: 280px; padding: 20px; border: 1px solid #A020F0; border-radius: 10px; background: linear-gradient(135deg, #0e0e12, #1a1a2e);">
 
 ### 🎨 **Patter-Nix**
 <p align="center">
@@ -77,7 +77,7 @@ Ideal for freelancers, small businesses, and instant payments.
 
 Easily copy the code and seamlessly integrate it into your projects.
 
-<br>
+<br><br>
 
 <p align="center">
 <a href="https://patter-nix.vercel.app/">
@@ -86,7 +86,7 @@ Easily copy the code and seamlessly integrate it into your projects.
 </p>
 
 </td>
-<td align="center" valign="top" width="50%" style="padding: 20px;">
+<td align="center" valign="top" width="50%" style="height: 280px; padding: 20px; border: 1px solid #A020F0; border-radius: 10px; background: linear-gradient(135deg, #0e0e12, #1a1a2e);">
 
 ### 🌟 **My Portfolio**
 <p align="center">
@@ -98,9 +98,9 @@ Easily copy the code and seamlessly integrate it into your projects.
 
 <br>
 
-Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatre.
+Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills.
 
-<br>
+<br><br>
 
 <p align="center">
 <a href="https://t2-astra.is-a.dev/">
@@ -112,9 +112,9 @@ Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatr
 </tr>
 </table>
 
-<table width="100%" cellpadding="20" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="10">
 <tr>
-<td align="center" valign="top" width="50%" style="padding: 20px;">
+<td align="center" valign="top" width="50%" style="height: 280px; padding: 20px; border: 1px solid #A020F0; border-radius: 10px; background: linear-gradient(135deg, #0e0e12, #1a1a2e);">
 
 ### 🎬 **MediaCraft**
 <p align="center">
@@ -126,8 +126,8 @@ Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatr
 
 <br>
 
-Upload your content and create stunning visuals!  
-*Supports: JPG, PNG, GIF, MP4, MOV, PDF, PSD, AI*
+Upload content and create stunning visuals!  
+*Supports: JPG, PNG, GIF, MP4, MOV, PDF*
 
 <br>
 
@@ -138,7 +138,7 @@ Upload your content and create stunning visuals!
 </p>
 
 </td>
-<td align="center" valign="top" width="50%" style="padding: 20px;">
+<td align="center" valign="top" width="50%" style="height: 280px; padding: 20px; border: 1px solid #A020F0; border-radius: 10px; background: linear-gradient(135deg, #0e0e12, #1a1a2e);">
 
 ### 🔧 **More Coming Soon**
 <p align="center">
@@ -152,7 +152,7 @@ Upload your content and create stunning visuals!
 
 Keep checking back to explore new features and utilities.
 
-<br>
+<br><br>
 
 <p align="center">
 <a href="#">
