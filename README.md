@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://upilinkgenerator.vercel.app/">
-<img src="https://img.shields.io/badge/🔗_Visit-A020F0?style=for-the-badge&logoColor=white" />
+<a href="https://1timemail.org/">
+<img src="https://img.shields.io/badge/🔗_Open-A020F0?style=for-the-badge&logoColor=white" />
 </a>
 </p>
