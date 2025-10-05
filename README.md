@@ -10,95 +10,155 @@
 
 <div align="center">
 
-<table>
+<table width="100%" cellpadding="20" cellspacing="0">
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%" style="padding: 20px;">
 
 ### 📧 **1TimeMail**
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Live-00ff00?style=for-the-badge" />
+</p>
 
 **Generate disposable email addresses instantly**  
 *Secure • Fast • Private*
 
+<br>
+
 Perfect for quick sign-ups and avoiding spam in your inbox.
 
-[![Open Project](https://img.shields.io/badge/🌐_Open_Project-A020F0?style=for-the-badge&logoColor=white)](https://1timemail.org/)
+<br>
+
+<p align="center">
+<a href="https://1timemail.org/">
+<img src="https://img.shields.io/badge/🌐_Open_Project-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
 
 </td>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%" style="padding: 20px;">
 
 ### 💸 **UpiLink Generator**
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Live-00ff00?style=for-the-badge" />
+</p>
 
 **Create custom UPI payment links in seconds**  
 *Easy Sharing • Instant Payments*
 
+<br>
+
 Ideal for freelancers, small businesses, and instant payments.
 
-[![Visit](https://img.shields.io/badge/🔗_Visit-A020F0?style=for-the-badge&logoColor=white)](http://upilinkgenerator.vercel.app/)
+<br>
+
+<p align="center">
+<a href="http://upilinkgenerator.vercel.app/">
+<img src="https://img.shields.io/badge/🔗_Visit-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
 
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%" cellpadding="20" cellspacing="0">
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%" style="padding: 20px;">
 
 ### 🎨 **Patter-Nix**
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Live-00ff00?style=for-the-badge" />
+</p>
 
 **Professional-grade background patterns**  
 *Copy Code • Seamless Integration*
 
+<br>
+
 Easily copy the code and seamlessly integrate it into your projects.
 
-[![Explore](https://img.shields.io/badge/🎨_Explore-A020F0?style=for-the-badge&logoColor=white)](https://patter-nix.vercel.app/)
+<br>
+
+<p align="center">
+<a href="https://patter-nix.vercel.app/">
+<img src="https://img.shields.io/badge/🎨_Explore-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
 
 </td>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%" style="padding: 20px;">
 
 ### 🌟 **My Portfolio**
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Live-00ff00?style=for-the-badge" />
+</p>
 
 **Where code meets design**  
 *AI/ML Projects • Creative Work*
 
+<br>
+
 Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatre.
 
-[![Visit Portfolio](https://img.shields.io/badge/🚀_Visit_Portfolio-A020F0?style=for-the-badge&logoColor=white)](https://t2-astra.is-a.dev/)
+<br>
+
+<p align="center">
+<a href="https://t2-astra.is-a.dev/">
+<img src="https://img.shields.io/badge/🚀_Visit_Portfolio-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
 
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%" cellpadding="20" cellspacing="0">
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%" style="padding: 20px;">
 
 ### 🎬 **MediaCraft**
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Live-00ff00?style=for-the-badge" />
+</p>
 
 **Beautiful graphics made simple**  
 *No Design Skills Required*
 
+<br>
+
 Upload your content and create stunning visuals!  
 *Supports: JPG, PNG, GIF, MP4, MOV, PDF, PSD, AI*
 
-[![Explore MediaCraft](https://img.shields.io/badge/🎨_Explore_MediaCraft-A020F0?style=for-the-badge&logoColor=white)](https://mediacraft.onrender.com/)
+<br>
+
+<p align="center">
+<a href="https://mediacraft.onrender.com/">
+<img src="https://img.shields.io/badge/🎨_Explore_MediaCraft-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
 
 </td>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%" style="padding: 20px;">
 
 ### 🔧 **More Coming Soon**
+<p align="center">
 <img src="https://img.shields.io/badge/Status-In_Development-ff9500?style=for-the-badge" />
+</p>
 
 **Stay tuned for exciting projects**  
 *Innovation Never Stops*
 
+<br>
+
 Keep checking back to explore new features and utilities.
 
-[![Learn More](https://img.shields.io/badge/✨_Learn_More-A020F0?style=for-the-badge&logoColor=white)](#)
+<br>
+
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/✨_Learn_More-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
 
 </td>
 </tr>
