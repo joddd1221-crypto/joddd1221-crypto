@@ -1,5 +1,5 @@
 # 🛰️ **Mission Highlights**
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=🚀+PROJECTS+THAT+MAKE+A+DIFFERENCE+🚀;💡+INNOVATION+IN+ACTION+💡;🌟+BUILDING+THE+FUTURE+🌟" alt="Mission Header" />
